@@ -1,0 +1,1441 @@
+
+------------- New Game -------------
+
+Initializing 9 by 7 board.
+
+W B W B W B W B W 
+B W B W B W B W B 
+W B W B W B W B W 
+B W B W _ _ B W B 
+W B W B W B W B W 
+B W B W B W B W B 
+W B W B W B W B W 
+
+
+Time for each player is 120000 milliseconds.
+Trying to load WHITE player: MalamalamaWikiwiki_43
+WHITE player loaded.
+Trying to load BLACK player: janiss_23
+BLACK player loaded.
+Beginning game.
+
+
+-----------------------------------
+Beginning WHITE's turn. Time left: 120000
+W B W B W B W B W 
+B W B W B W B W B 
+W B W B W B W B W 
+B W B W _ _ B W B 
+W B W B W B W B W 
+B W B W B W B W B 
+W B W B W B W B W 
+
+Stats: depth = 10, evaluations = 141168, alpha cuts = 27675, beta cuts = 42815
+WHITE's move: (7,3) to (5,3) for WHITE with Never tell me the odds
+  in 6469 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 120000
+W B W B W B W B W 
+B W B W B W B W B 
+W B W B W B W B W 
+B W B W _ W _ _ B 
+W B W B W B W B W 
+B W B W B W B W B 
+W B W B W B W B W 
+
+BLACK's move: (6,5) to (6,3) for BLACK with 
+  in 3780 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 113531
+W B W B W B W B W 
+B W B W B W B W B 
+W B W B W B W B W 
+B W B W _ W B _ B 
+W B W B W B _ B W 
+B W B W B W _ W B 
+W B W B W B W B W 
+
+Stats: depth = 10, evaluations = 391350, alpha cuts = 94995, beta cuts = 91077
+WHITE's move: (8,4) to (6,4) for WHITE with Your powers are weak..
+  in 16149 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 116220
+W B W B W B W B W 
+B W B W B W B W B 
+W B W B W B W B W 
+B W B W _ W B _ B 
+W B W B W B W _ _ 
+B W B W B W _ W B 
+W B W B W B W B W 
+
+BLACK's move: (2,3) to (4,3) for BLACK with 
+  in 4297 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 97382
+W B W B W B W B W 
+B W B W B W B W B 
+W B W B W B W B W 
+B W _ _ B W B _ B 
+W B W B W B W _ _ 
+B W B W B W _ W B 
+W B W B W B W B W 
+
+Stats: depth = 10, evaluations = 1244888, alpha cuts = 303735, beta cuts = 315559
+WHITE's move: (5,3) to (3,3) for WHITE with Luminous beings are we
+  in 56230 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 111923
+W B W B W B W B W 
+B W B W B W B W B 
+W B W B W B W B W 
+B W _ W _ _ B _ B 
+W B W B W B W _ _ 
+B W B W B W _ W B 
+W B W B W B W B W 
+
+BLACK's move: (8,5) to (6,5) for BLACK with 
+  in 1314 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 41152
+W B W B W B W B W 
+B W B W B W B W B 
+W B W B W B W B W 
+B W _ W _ _ B _ B 
+W B W B W B W _ _ 
+B W B W B W B _ _ 
+W B W B W B W B W 
+
+Stats: depth = 9, evaluations = 254279, alpha cuts = 68856, beta cuts = 105804
+WHITE's move: (8,2) to (8,4) for WHITE with I'm on the leader...  
+  in 10690 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 110609
+W B W B W B W B W 
+B W B W B W B W B 
+W B W B W B W B _ 
+B W _ W _ _ B _ _ 
+W B W B W B W _ W 
+B W B W B W B _ _ 
+W B W B W B W B W 
+
+BLACK's move: (2,5) to (2,3) for BLACK with 
+  in 4141 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 30462
+W B W B W B W B W 
+B W B W B W B W B 
+W B W B W B W B _ 
+B W B W _ _ B _ _ 
+W B _ B W B W _ W 
+B W _ W B W B _ _ 
+W B W B W B W B W 
+
+Stats: depth = 8, evaluations = 22501, alpha cuts = 15431, beta cuts = 3264
+WHITE's move: (2,2) to (2,4) for WHITE with Let the Wookiee win.  
+  in 1114 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 106468
+W B W B W B W B W 
+B W B W B W B W B 
+W B _ B W B W B _ 
+B W _ W _ _ B _ _ 
+W B W B W B W _ W 
+B W _ W B W B _ _ 
+W B W B W B W B W 
+
+BLACK's move: (4,5) to (4,3) for BLACK with 
+  in 1965 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 29348
+W B W B W B W B W 
+B W B W B W B W B 
+W B _ B W B W B _ 
+B W _ W B _ B _ _ 
+W B W B _ B W _ W 
+B W _ W _ W B _ _ 
+W B W B W B W B W 
+
+Stats: depth = 8, evaluations = 139845, alpha cuts = 91211, beta cuts = 18397
+WHITE's move: (4,2) to (4,4) for WHITE with I'm on the leader...  
+  in 6395 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 104503
+W B W B W B W B W 
+B W B W B W B W B 
+W B _ B _ B W B _ 
+B W _ W _ _ B _ _ 
+W B W B W B W _ W 
+B W _ W _ W B _ _ 
+W B W B W B W B W 
+
+BLACK's move: (6,5) to (4,5) for BLACK with 
+  in 2305 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 22953
+W B W B W B W B W 
+B W B W B W B W B 
+W B _ B _ B W B _ 
+B W _ W _ _ B _ _ 
+W B W B W B W _ W 
+B W _ W B _ _ _ _ 
+W B W B W B W B W 
+
+Stats: depth = 8, evaluations = 51891, alpha cuts = 37811, beta cuts = 4738
+WHITE's move: (3,5) to (5,5) for WHITE with We meet again, at last
+  in 2487 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 102198
+W B W B W B W B W 
+B W B W B W B W B 
+W B _ B _ B W B _ 
+B W _ W _ _ B _ _ 
+W B W B W B W _ W 
+B W _ _ _ W _ _ _ 
+W B W B W B W B W 
+
+BLACK's move: (5,4) to (7,4) for BLACK with 
+  in 1488 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 20466
+W B W B W B W B W 
+B W B W B W B W B 
+W B _ B _ B W B _ 
+B W _ W _ _ B _ _ 
+W B W B W _ _ B W 
+B W _ _ _ W _ _ _ 
+W B W B W B W B W 
+
+Stats: depth = 8, evaluations = 57408, alpha cuts = 49633, beta cuts = 4542
+WHITE's move: (6,2) to (6,4) for WHITE with You must learn control
+  in 2814 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 100710
+W B W B W B W B W 
+B W B W B W B W B 
+W B _ B _ B _ B _ 
+B W _ W _ _ _ _ _ 
+W B W B W _ W B W 
+B W _ _ _ W _ _ _ 
+W B W B W B W B W 
+
+BLACK's move: (5,6) to (5,4) for BLACK with 
+  in 1667 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 17652
+W B W B W B W B W 
+B W B W B W B W B 
+W B _ B _ B _ B _ 
+B W _ W _ _ _ _ _ 
+W B W B W B W B W 
+B W _ _ _ _ _ _ _ 
+W B W B W _ W B W 
+
+Stats: depth = 8, evaluations = 73924, alpha cuts = 78215, beta cuts = 9476
+WHITE's move: (5,1) to (5,3) for WHITE with Never tell me the odds
+  in 3828 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 99043
+W B W B W B W B W 
+B W B W B _ B W B 
+W B _ B _ _ _ B _ 
+B W _ W _ W _ _ _ 
+W B W B W B W B W 
+B W _ _ _ _ _ _ _ 
+W B W B W _ W B W 
+
+BLACK's move: (3,6) to (5,6) for BLACK with 
+  in 1572 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 13824
+W B W B W B W B W 
+B W B W B _ B W B 
+W B _ B _ _ _ B _ 
+B W _ W _ W _ _ _ 
+W B W B W B W B W 
+B W _ _ _ _ _ _ _ 
+W B W _ _ B W B W 
+
+Stats: depth = 7, evaluations = 34885, alpha cuts = 10589, beta cuts = 5670
+WHITE's move: (6,6) to (4,6) for WHITE with You weak-minded fool! 
+  in 1420 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 97471
+W B W B W B W B W 
+B W B W B _ B W B 
+W B _ B _ _ _ B _ 
+B W _ W _ W _ _ _ 
+W B W B W B W B W 
+B W _ _ _ _ _ _ _ 
+W B W _ W _ _ B W 
+
+BLACK's move: (1,6) to (5,6) for BLACK with 
+  in 3464 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 12404
+W B W B W B W B W 
+B W B W B _ B W B 
+W B _ B _ _ _ B _ 
+B W _ W _ W _ _ _ 
+W B W B W B W B W 
+B W _ _ _ _ _ _ _ 
+W _ _ _ _ B _ B W 
+
+Stats: depth = 6, evaluations = 6439, alpha cuts = 4776, beta cuts = 827
+WHITE's move: (3,3) to (3,5) for WHITE with Judge me by my size?  
+  in 2070 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 94007
+W B W B W B W B W 
+B W B W B _ B W B 
+W B _ B _ _ _ B _ 
+B W _ _ _ W _ _ _ 
+W B W _ W B W B W 
+B W _ W _ _ _ _ _ 
+W _ _ _ _ B _ B W 
+
+BLACK's move: (0,5) to (2,5) for BLACK with 
+  in 3650 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 10334
+W B W B W B W B W 
+B W B W B _ B W B 
+W B _ B _ _ _ B _ 
+B W _ _ _ W _ _ _ 
+W B W _ W B W B W 
+_ _ B W _ _ _ _ _ 
+W _ _ _ _ B _ B W 
+
+Stats: depth = 7, evaluations = 38920, alpha cuts = 19826, beta cuts = 1506
+WHITE's move: (2,4) to (2,6) for WHITE with I'm on the leader...  
+  in 1588 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 90357
+W B W B W B W B W 
+B W B W B _ B W B 
+W B _ B _ _ _ B _ 
+B W _ _ _ W _ _ _ 
+W B _ _ W B W B W 
+_ _ _ W _ _ _ _ _ 
+W _ W _ _ B _ B W 
+
+BLACK's move: (5,4) to (5,2) for BLACK with 
+  in 6767 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 8746
+W B W B W B W B W 
+B W B W B _ B W B 
+W B _ B _ B _ B _ 
+B W _ _ _ _ _ _ _ 
+W B _ _ W _ W B W 
+_ _ _ W _ _ _ _ _ 
+W _ W _ _ B _ B W 
+
+Stats: depth = 7, evaluations = 25083, alpha cuts = 12523, beta cuts = 844
+WHITE's move: (3,1) to (5,1) for WHITE with Let the Wookiee win.  
+  in 961 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 83590
+W B W B W B W B W 
+B W B _ _ W B W B 
+W B _ B _ B _ B _ 
+B W _ _ _ _ _ _ _ 
+W B _ _ W _ W B W 
+_ _ _ W _ _ _ _ _ 
+W _ W _ _ B _ B W 
+
+BLACK's move: (7,4) to (5,4) for BLACK with 
+  in 11932 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 7785
+W B W B W B W B W 
+B W B _ _ W B W B 
+W B _ B _ B _ B _ 
+B W _ _ _ _ _ _ _ 
+W B _ _ W B _ _ W 
+_ _ _ W _ _ _ _ _ 
+W _ W _ _ B _ B W 
+
+Stats: depth = 7, evaluations = 16777, alpha cuts = 12032, beta cuts = 411
+WHITE's move: (4,4) to (6,4) for WHITE with I was but the learner.
+  in 700 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 71658
+W B W B W B W B W 
+B W B _ _ W B W B 
+W B _ B _ B _ B _ 
+B W _ _ _ _ _ _ _ 
+W B _ _ _ _ W _ W 
+_ _ _ W _ _ _ _ _ 
+W _ W _ _ B _ B W 
+
+BLACK's move: (0,3) to (0,5) for BLACK with 
+  in 12209 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 7085
+W B W B W B W B W 
+B W B _ _ W B W B 
+W B _ B _ B _ B _ 
+_ W _ _ _ _ _ _ _ 
+_ B _ _ _ _ W _ W 
+B _ _ W _ _ _ _ _ 
+W _ W _ _ B _ B W 
+
+Stats: depth = 6, evaluations = 903, alpha cuts = 1707, beta cuts = 60
+WHITE's move: (2,0) to (2,2) for WHITE with Don't mess w/ *haole* 
+  in 93 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 59449
+W B _ B W B W B W 
+B W _ _ _ W B W B 
+W B W B _ B _ B _ 
+_ W _ _ _ _ _ _ _ 
+_ B _ _ _ _ W _ W 
+B _ _ W _ _ _ _ _ 
+W _ W _ _ B _ B W 
+
+BLACK's move: (6,1) to (4,1) for BLACK with 
+  in 11284 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 6992
+W B _ B W B W B W 
+B W _ _ B _ _ W B 
+W B W B _ B _ B _ 
+_ W _ _ _ _ _ _ _ 
+_ B _ _ _ _ W _ W 
+B _ _ W _ _ _ _ _ 
+W _ W _ _ B _ B W 
+
+Stats: depth = 4, evaluations = 0, alpha cuts = 0, beta cuts = 0
+WHITE's move: (8,0) to (8,2) for WHITE with You are not a Jedi yet
+  in 1 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 48165
+W B _ B W B W B _ 
+B W _ _ B _ _ W _ 
+W B W B _ B _ B W 
+_ W _ _ _ _ _ _ _ 
+_ B _ _ _ _ W _ W 
+B _ _ W _ _ _ _ _ 
+W _ W _ _ B _ B W 
+
+BLACK's move: (0,1) to (0,3) for BLACK with 
+  in 71 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 6991
+W B _ B W B W B _ 
+_ W _ _ B _ _ W _ 
+_ B W B _ B _ B W 
+B W _ _ _ _ _ _ _ 
+_ B _ _ _ _ W _ W 
+B _ _ W _ _ _ _ _ 
+W _ W _ _ B _ B W 
+
+Stats: depth = 2, evaluations = 0, alpha cuts = 0, beta cuts = 0
+WHITE's move: (0,6) to (0,2) for WHITE with *Hoku moe* wins again.
+  in 0 milliseconds.
+WHITE won.
+Game lasted 16 moves.
+
+------------- New Game -------------
+
+Initializing 10 by 8 board.
+
+W B W B W B W B W B 
+B W B W B W B W B W 
+W B W B W B W B W B 
+B W B W _ _ B W B W 
+W B W B W B W B W B 
+B W B W B W B W B W 
+W B W B W B W B W B 
+B W B W B W B W B W 
+
+
+Time for each player is 120000 milliseconds.
+Trying to load WHITE player: janiss_23
+WHITE player loaded.
+Trying to load BLACK player: MalamalamaWikiwiki_43
+BLACK player loaded.
+Beginning game.
+
+
+-----------------------------------
+Beginning WHITE's turn. Time left: 120000
+W B W B W B W B W B 
+B W B W B W B W B W 
+W B W B W B W B W B 
+B W B W _ _ B W B W 
+W B W B W B W B W B 
+B W B W B W B W B W 
+W B W B W B W B W B 
+B W B W B W B W B W 
+
+WHITE's move: (7,3) to (5,3) for WHITE with 
+  in 2761 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 120000
+W B W B W B W B W B 
+B W B W B W B W B W 
+W B W B W B W B W B 
+B W B W _ W _ _ B W 
+W B W B W B W B W B 
+B W B W B W B W B W 
+W B W B W B W B W B 
+B W B W B W B W B W 
+
+Stats: depth = 7, evaluations = 14022, alpha cuts = 2197, beta cuts = 3567
+BLACK's move: (2,3) to (6,3) for BLACK with You must learn control
+  in 6023 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 117239
+W B W B W B W B W B 
+B W B W B W B W B W 
+W B W B W B W B W B 
+B W _ _ _ _ B _ B W 
+W B W B W B W B W B 
+B W B W B W B W B W 
+W B W B W B W B W B 
+B W B W B W B W B W 
+
+WHITE's move: (5,5) to (5,3) for WHITE with 
+  in 2147 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 113977
+W B W B W B W B W B 
+B W B W B W B W B W 
+W B W B W B W B W B 
+B W _ _ _ W B _ B W 
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W B W B W B 
+B W B W B W B W B W 
+
+Stats: depth = 9, evaluations = 439116, alpha cuts = 82376, beta cuts = 104584
+BLACK's move: (5,2) to (5,4) for BLACK with The Force is with me. 
+  in 28911 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 115092
+W B W B W B W B W B 
+B W B W B W B W B W 
+W B W B W _ W B W B 
+B W _ _ _ _ B _ B W 
+W B W B W B W B W B 
+B W B W B _ B W B W 
+W B W B W B W B W B 
+B W B W B W B W B W 
+
+WHITE's move: (9,3) to (7,3) for WHITE with 
+  in 2890 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 85066
+W B W B W B W B W B 
+B W B W B W B W B W 
+W B W B W _ W B W B 
+B W _ _ _ _ B W _ _ 
+W B W B W B W B W B 
+B W B W B _ B W B W 
+W B W B W B W B W B 
+B W B W B W B W B W 
+
+Stats: depth = 8, evaluations = 124601, alpha cuts = 19865, beta cuts = 87479
+BLACK's move: (6,3) to (8,3) for BLACK with I was but the learner.
+  in 9999 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 112202
+W B W B W B W B W B 
+B W B W B W B W B W 
+W B W B W _ W B W B 
+B W _ _ _ _ _ _ B _ 
+W B W B W B W B W B 
+B W B W B _ B W B W 
+W B W B W B W B W B 
+B W B W B W B W B W 
+
+WHITE's move: (5,7) to (5,3) for WHITE with 
+  in 1408 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 75067
+W B W B W B W B W B 
+B W B W B W B W B W 
+W B W B W _ W B W B 
+B W _ _ _ W _ _ B _ 
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+
+Stats: depth = 7, evaluations = 149865, alpha cuts = 21561, beta cuts = 33197
+BLACK's move: (5,0) to (5,2) for BLACK with Luminous beings are we
+  in 55572 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 110794
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W B W B W B 
+B W _ _ _ W _ _ B _ 
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+
+WHITE's move: (7,7) to (5,7) for WHITE with 
+  in 3057 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 19495
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W B W B W B 
+B W _ _ _ W _ _ B _ 
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W _ W B W B 
+B W B W B W _ _ B W 
+
+Stats: depth = 6, evaluations = 10791, alpha cuts = 2691, beta cuts = 7038
+BLACK's move: (4,7) to (6,7) for BLACK with No such thing as luck.
+  in 1713 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 107737
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W B W B W B 
+B W _ _ _ W _ _ B _ 
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W _ W B W B 
+B W B W _ _ B _ B W 
+
+WHITE's move: (9,7) to (5,7) for WHITE with 
+  in 1192 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 17782
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W B W B W B 
+B W _ _ _ W _ _ B _ 
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W _ W B W B 
+B W B W _ W _ _ _ _ 
+
+Stats: depth = 5, evaluations = 10205, alpha cuts = 1496, beta cuts = 3450
+BLACK's move: (2,7) to (4,7) for BLACK with Never tell me the odds
+  in 1716 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 106545
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W B W B W B 
+B W _ _ _ W _ _ B _ 
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W _ W B W B 
+B W _ _ B W _ _ _ _ 
+
+WHITE's move: (5,7) to (3,7) for WHITE with 
+  in 1706 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 16066
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W B W B W B 
+B W _ _ _ W _ _ B _ 
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W _ W B W B 
+B W _ W _ _ _ _ _ _ 
+
+Stats: depth = 6, evaluations = 24751, alpha cuts = 2763, beta cuts = 21006
+BLACK's move: (5,2) to (5,4) for BLACK with You weak-minded fool! 
+  in 3127 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 104839
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W _ W B W B 
+B W _ _ _ _ _ _ B _ 
+W B W B W B W B W B 
+B W B W B _ B W B W 
+W B W B W _ W B W B 
+B W _ W _ _ _ _ _ _ 
+
+WHITE's move: (9,5) to (9,3) for WHITE with 
+  in 895 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 12939
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W _ W B W B 
+B W _ _ _ _ _ _ B W 
+W B W B W B W B W _ 
+B W B W B _ B W B _ 
+W B W B W _ W B W B 
+B W _ W _ _ _ _ _ _ 
+
+Stats: depth = 5, evaluations = 16919, alpha cuts = 2739, beta cuts = 6441
+BLACK's move: (8,5) to (8,7) for BLACK with No such thing as luck.
+  in 1157 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 103944
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W _ W B W B 
+B W _ _ _ _ _ _ B W 
+W B W B W B W B W _ 
+B W B W B _ B W _ _ 
+W B W B W _ W B _ B 
+B W _ W _ _ _ _ B _ 
+
+WHITE's move: (7,5) to (7,3) for WHITE with 
+  in 3141 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 11782
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W _ W B W B 
+B W _ _ _ _ _ W B W 
+W B W B W B W _ W _ 
+B W B W B _ B _ _ _ 
+W B W B W _ W B _ B 
+B W _ W _ _ _ _ B _ 
+
+Stats: depth = 5, evaluations = 11409, alpha cuts = 367, beta cuts = 4307
+BLACK's move: (0,7) to (4,7) for BLACK with I'm on the leader...  
+  in 553 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 100803
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W _ W B W B 
+B W _ _ _ _ _ W B W 
+W B W B W B W _ W _ 
+B W B W B _ B _ _ _ 
+W B W B W _ W B _ B 
+_ _ _ _ B _ _ _ B _ 
+
+WHITE's move: (3,5) to (3,3) for WHITE with 
+  in 1745 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 11229
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W _ W B W B 
+B W _ W _ _ _ W B W 
+W B W _ W B W _ W _ 
+B W B _ B _ B _ _ _ 
+W B W B W _ W B _ B 
+_ _ _ _ B _ _ _ B _ 
+
+Stats: depth = 5, evaluations = 11610, alpha cuts = 311, beta cuts = 5472
+BLACK's move: (6,5) to (6,7) for BLACK with I'm on the leader...  
+  in 537 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 99058
+W B W B W _ W B W B 
+B W B W B _ B W B W 
+W B W B W _ W B W B 
+B W _ W _ _ _ W B W 
+W B W _ W B W _ W _ 
+B W B _ B _ _ _ _ _ 
+W B W B W _ _ B _ B 
+_ _ _ _ B _ B _ B _ 
+
+WHITE exceeded time limit.
+Terminating WHITE player.
+BLACK won.
+Game lasted 10 moves.
+
+------------- New Game -------------
+
+Initializing 11 by 7 board.
+
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+B W B W B _ _ W B W B 
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+
+
+Time for each player is 120000 milliseconds.
+Trying to load WHITE player: MalamalamaWikiwiki_43
+WHITE player loaded.
+Trying to load BLACK player: janiss_23
+BLACK player loaded.
+Beginning game.
+
+
+-----------------------------------
+Beginning WHITE's turn. Time left: 120000
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+B W B W B _ _ W B W B 
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+
+Stats: depth = 4, evaluations = 113, alpha cuts = 29, beta cuts = 30
+WHITE's move: (3,3) to (5,3) for WHITE with Your powers are weak..
+  in 10536 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 120000
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+B W B _ _ W _ W B W B 
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+
+BLACK's move: (6,5) to (6,3) for BLACK with 
+  in 5970 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 109464
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+B W B _ _ W B W B W B 
+W B W B W B _ B W B W 
+B W B W B W _ W B W B 
+W B W B W B W B W B W 
+
+Stats: depth = 7, evaluations = 9008, alpha cuts = 2138, beta cuts = 1235
+WHITE's move: (6,2) to (6,4) for WHITE with You... want this...   
+  in 14853 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 114030
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B _ B W B W 
+B W B _ _ W _ W B W B 
+W B W B W B W B W B W 
+B W B W B W _ W B W B 
+W B W B W B W B W B W 
+
+BLACK's move: (8,5) to (6,5) for BLACK with 
+  in 1118 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 94611
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B _ B W B W 
+B W B _ _ W _ W B W B 
+W B W B W B W B W B W 
+B W B W B W B _ _ W B 
+W B W B W B W B W B W 
+
+Stats: depth = 6, evaluations = 3530, alpha cuts = 1578, beta cuts = 612
+WHITE's move: (5,5) to (7,5) for WHITE with The Force is with me. 
+  in 483 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 112912
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B _ B W B W 
+B W B _ _ W _ W B W B 
+W B W B W B W B W B W 
+B W B W B _ _ W _ W B 
+W B W B W B W B W B W 
+
+BLACK's move: (10,5) to (8,5) for BLACK with 
+  in 1019 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 94128
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B _ B W B W 
+B W B _ _ W _ W B W B 
+W B W B W B W B W B W 
+B W B W B _ _ W B _ _ 
+W B W B W B W B W B W 
+
+Stats: depth = 6, evaluations = 4467, alpha cuts = 2193, beta cuts = 790
+WHITE's move: (3,5) to (5,5) for WHITE with I'm on the leader...  
+  in 282 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 111893
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B _ B W B W 
+B W B _ _ W _ W B W B 
+W B W B W B W B W B W 
+B W B _ _ W _ W B _ _ 
+W B W B W B W B W B W 
+
+BLACK's move: (8,5) to (4,5) for BLACK with 
+  in 891 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 93846
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B _ B W B W 
+B W B _ _ W _ W B W B 
+W B W B W B W B W B W 
+B W B _ B _ _ _ _ _ _ 
+W B W B W B W B W B W 
+
+Stats: depth = 7, evaluations = 35686, alpha cuts = 8947, beta cuts = 3453
+WHITE's move: (1,5) to (5,5) for WHITE with Your powers are weak..
+  in 1399 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 111002
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B _ B W B W 
+B W B _ _ W _ W B W B 
+W B W B W B W B W B W 
+B _ _ _ _ W _ _ _ _ _ 
+W B W B W B W B W B W 
+
+BLACK's move: (10,3) to (10,5) for BLACK with 
+  in 3321 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 92447
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B _ B W B W 
+B W B _ _ W _ W B W _ 
+W B W B W B W B W B _ 
+B _ _ _ _ W _ _ _ _ B 
+W B W B W B W B W B W 
+
+Stats: depth = 7, evaluations = 26629, alpha cuts = 9168, beta cuts = 2967
+WHITE's move: (10,6) to (10,4) for WHITE with Hurry up, goldenrod!  
+  in 1111 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 107681
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B _ B W B W 
+B W B _ _ W _ W B W _ 
+W B W B W B W B W B W 
+B _ _ _ _ W _ _ _ _ _ 
+W B W B W B W B W B _ 
+
+BLACK's move: (8,3) to (8,5) for BLACK with 
+  in 927 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 91336
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B _ B W B W 
+B W B _ _ W _ W _ W _ 
+W B W B W B W B _ B W 
+B _ _ _ _ W _ _ B _ _ 
+W B W B W B W B W B _ 
+
+Stats: depth = 7, evaluations = 42571, alpha cuts = 15277, beta cuts = 3614
+WHITE's move: (8,6) to (10,6) for WHITE with Let the Wookiee win.  
+  in 1734 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 106754
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B _ B W B W 
+B W B _ _ W _ W _ W _ 
+W B W B W B W B _ B W 
+B _ _ _ _ W _ _ B _ _ 
+W B W B W B W B _ _ W 
+
+BLACK's move: (2,3) to (2,5) for BLACK with 
+  in 3583 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 89602
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B _ B W B W 
+B W _ _ _ W _ W _ W _ 
+W B _ B W B W B _ B W 
+B _ B _ _ W _ _ B _ _ 
+W B W B W B W B _ _ W 
+
+Stats: depth = 8, evaluations = 107815, alpha cuts = 98533, beta cuts = 10735
+WHITE's move: (1,3) to (1,5) for WHITE with Hurry up, goldenrod!  
+  in 14035 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 103171
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B _ B W B W 
+B _ _ _ _ W _ W _ W _ 
+W _ _ B W B W B _ B W 
+B W B _ _ W _ _ B _ _ 
+W B W B W B W B _ _ W 
+
+BLACK's move: (1,6) to (1,4) for BLACK with 
+  in 1102 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 75567
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B _ B W B W 
+B _ _ _ _ W _ W _ W _ 
+W B _ B W B W B _ B W 
+B _ B _ _ W _ _ B _ _ 
+W _ W B W B W B _ _ W 
+
+Stats: depth = 8, evaluations = 95120, alpha cuts = 78830, beta cuts = 6276
+WHITE's move: (6,6) to (8,6) for WHITE with Now *I* am the master.
+  in 13176 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 102069
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B _ B W B W 
+B _ _ _ _ W _ W _ W _ 
+W B _ B W B W B _ B W 
+B _ B _ _ W _ _ B _ _ 
+W _ W B W B _ _ W _ W 
+
+BLACK's move: (10,1) to (10,5) for BLACK with 
+  in 1658 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 62391
+W B W B W B W B W B W 
+B W B W B W B W B W _ 
+W B W B W B _ B W B _ 
+B _ _ _ _ W _ W _ W _ 
+W B _ B W B W B _ B _ 
+B _ B _ _ W _ _ B _ B 
+W _ W B W B _ _ W _ W 
+
+Stats: depth = 7, evaluations = 76647, alpha cuts = 36447, beta cuts = 8535
+WHITE's move: (2,6) to (2,4) for WHITE with I'm on the leader...  
+  in 3258 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 100411
+W B W B W B W B W B W 
+B W B W B W B W B W _ 
+W B W B W B _ B W B _ 
+B _ _ _ _ W _ W _ W _ 
+W B W B W B W B _ B _ 
+B _ _ _ _ W _ _ B _ B 
+W _ _ B W B _ _ W _ W 
+
+BLACK's move: (8,1) to (10,1) for BLACK with 
+  in 1038 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 59133
+W B W B W B W B W B W 
+B W B W B W B W _ _ B 
+W B W B W B _ B W B _ 
+B _ _ _ _ W _ W _ W _ 
+W B W B W B W B _ B _ 
+B _ _ _ _ W _ _ B _ B 
+W _ _ B W B _ _ W _ W 
+
+Stats: depth = 8, evaluations = 36399, alpha cuts = 71291, beta cuts = 1382
+WHITE's move: (10,0) to (10,2) for WHITE with You... want this...   
+  in 2480 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 99373
+W B W B W B W B W B _ 
+B W B W B W B W _ _ _ 
+W B W B W B _ B W B W 
+B _ _ _ _ W _ W _ W _ 
+W B W B W B W B _ B _ 
+B _ _ _ _ W _ _ B _ B 
+W _ _ B W B _ _ W _ W 
+
+BLACK's move: (6,1) to (8,1) for BLACK with 
+  in 2684 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 56653
+W B W B W B W B W B _ 
+B W B W B W _ _ B _ _ 
+W B W B W B _ B W B W 
+B _ _ _ _ W _ W _ W _ 
+W B W B W B W B _ B _ 
+B _ _ _ _ W _ _ B _ B 
+W _ _ B W B _ _ W _ W 
+
+Stats: depth = 9, evaluations = 218253, alpha cuts = 210826, beta cuts = 5897
+WHITE's move: (8,0) to (10,0) for WHITE with I'm on the leader...  
+  in 11479 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 96689
+W B W B W B W B _ _ W 
+B W B W B W _ _ B _ _ 
+W B W B W B _ B W B W 
+B _ _ _ _ W _ W _ W _ 
+W B W B W B W B _ B _ 
+B _ _ _ _ W _ _ B _ B 
+W _ _ B W B _ _ W _ W 
+
+BLACK's move: (4,1) to (4,5) for BLACK with 
+  in 1877 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 45174
+W B W B W B W B _ _ W 
+B W B W _ W _ _ B _ _ 
+W B W B _ B _ B W B W 
+B _ _ _ _ W _ W _ W _ 
+W B W B _ B W B _ B _ 
+B _ _ _ B W _ _ B _ B 
+W _ _ B W B _ _ W _ W 
+
+Stats: depth = 8, evaluations = 73725, alpha cuts = 145678, beta cuts = 4524
+WHITE's move: (5,5) to (3,5) for WHITE with Never tell me the odds
+  in 5395 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 94812
+W B W B W B W B _ _ W 
+B W B W _ W _ _ B _ _ 
+W B W B _ B _ B W B W 
+B _ _ _ _ W _ W _ W _ 
+W B W B _ B W B _ B _ 
+B _ _ W _ _ _ _ B _ B 
+W _ _ B W B _ _ W _ W 
+
+BLACK's move: (8,1) to (8,3) for BLACK with 
+  in 1306 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 39779
+W B W B W B W B _ _ W 
+B W B W _ W _ _ _ _ _ 
+W B W B _ B _ B _ B W 
+B _ _ _ _ W _ W B W _ 
+W B W B _ B W B _ B _ 
+B _ _ W _ _ _ _ B _ B 
+W _ _ B W B _ _ W _ W 
+
+Stats: depth = 8, evaluations = 89362, alpha cuts = 144479, beta cuts = 263
+WHITE's move: (8,6) to (8,2) for WHITE with Never tell me the odds
+  in 5636 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 93506
+W B W B W B W B _ _ W 
+B W B W _ W _ _ _ _ _ 
+W B W B _ B _ B W B W 
+B _ _ _ _ W _ W _ W _ 
+W B W B _ B W B _ B _ 
+B _ _ W _ _ _ _ _ _ B 
+W _ _ B W B _ _ _ _ W 
+
+BLACK's move: (2,1) to (2,3) for BLACK with 
+  in 5139 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 34143
+W B W B W B W B _ _ W 
+B W _ W _ W _ _ _ _ _ 
+W B _ B _ B _ B W B W 
+B _ B _ _ W _ W _ W _ 
+W B W B _ B W B _ B _ 
+B _ _ W _ _ _ _ _ _ B 
+W _ _ B W B _ _ _ _ W 
+
+Stats: depth = 8, evaluations = 80019, alpha cuts = 110668, beta cuts = 177
+WHITE's move: (2,4) to (2,2) for WHITE with No such thing as luck.
+  in 4389 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 88367
+W B W B W B W B _ _ W 
+B W _ W _ W _ _ _ _ _ 
+W B W B _ B _ B W B W 
+B _ _ _ _ W _ W _ W _ 
+W B _ B _ B W B _ B _ 
+B _ _ W _ _ _ _ _ _ B 
+W _ _ B W B _ _ _ _ W 
+
+BLACK's move: (0,1) to (6,1) for BLACK with 
+  in 5386 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 29754
+W B W B W B W B _ _ W 
+_ _ _ _ _ _ B _ _ _ _ 
+W B W B _ B _ B W B W 
+B _ _ _ _ W _ W _ W _ 
+W B _ B _ B W B _ B _ 
+B _ _ W _ _ _ _ _ _ B 
+W _ _ B W B _ _ _ _ W 
+
+Stats: depth = 6, evaluations = 0, alpha cuts = 0, beta cuts = 0
+WHITE's move: (6,0) to (8,0) for WHITE with ..Oops, I did it again
+  in 75 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 82981
+W B W B W B _ _ W _ W 
+_ _ _ _ _ _ B _ _ _ _ 
+W B W B _ B _ B W B W 
+B _ _ _ _ W _ W _ W _ 
+W B _ B _ B W B _ B _ 
+B _ _ W _ _ _ _ _ _ B 
+W _ _ B W B _ _ _ _ W 
+
+BLACK's move: (0,3) to (0,1) for BLACK with 
+  in 68 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 29679
+W B W B W B _ _ W _ W 
+B _ _ _ _ _ B _ _ _ _ 
+_ B W B _ B _ B W B W 
+_ _ _ _ _ W _ W _ W _ 
+W B _ B _ B W B _ B _ 
+B _ _ W _ _ _ _ _ _ B 
+W _ _ B W B _ _ _ _ W 
+
+Stats: depth = 4, evaluations = 0, alpha cuts = 0, beta cuts = 0
+WHITE's move: (4,0) to (6,0) for WHITE with My ally is the Force. 
+  in 0 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 82913
+W B W B _ _ W _ W _ W 
+B _ _ _ _ _ B _ _ _ _ 
+_ B W B _ B _ B W B W 
+_ _ _ _ _ W _ W _ W _ 
+W B _ B _ B W B _ B _ 
+B _ _ W _ _ _ _ _ _ B 
+W _ _ B W B _ _ _ _ W 
+
+BLACK's move: (0,5) to (0,3) for BLACK with 
+  in 67 milliseconds.
+-----------------------------------
+Beginning WHITE's turn. Time left: 29679
+W B W B _ _ W _ W _ W 
+B _ _ _ _ _ B _ _ _ _ 
+_ B W B _ B _ B W B W 
+B _ _ _ _ W _ W _ W _ 
+_ B _ B _ B W B _ B _ 
+_ _ _ W _ _ _ _ _ _ B 
+W _ _ B W B _ _ _ _ W 
+
+Stats: depth = 2, evaluations = 0, alpha cuts = 0, beta cuts = 0
+WHITE's move: (2,0) to (4,0) for WHITE with That game was *lani*  
+  in 0 milliseconds.
+WHITE won.
+Game lasted 17 moves.
+----------- Head-to-Head Results ------------
+9 x 7 Board. 120000 milliseconds.
+MalamalamaWikiwiki_43 playing WHITE. janiss_23 playing BLACK.
+MalamalamaWikiwiki_43 wins in 16 moves.
+WHITE time left: 6991
+BLACK time left: 48094
+
+10 x 8 Board. 120000 milliseconds.
+janiss_23 playing WHITE. MalamalamaWikiwiki_43 playing BLACK.
+MalamalamaWikiwiki_43 wins in 10 moves.
+WHITE time left: 99058
+BLACK time left: 10692
+
+11 x 7 Board. 120000 milliseconds.
+MalamalamaWikiwiki_43 playing WHITE. janiss_23 playing BLACK.
+MalamalamaWikiwiki_43 wins in 17 moves.
+WHITE time left: 29679
+BLACK time left: 82846
+
+
+------------- New Game -------------
+
+Initializing 11 by 7 board.
+
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+B W B W B _ _ W B W B 
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+
+
+Time for each player is 120000 milliseconds.
+Trying to load WHITE player: SocaBoys_44
+WHITE player loaded.
+Trying to load BLACK player: MalamalamaWikiwiki_43
+BLACK player loaded.
+Beginning game.
+
+
+-----------------------------------
+Beginning WHITE's turn. Time left: 120000
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+B W B W B _ _ W B W B 
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+
+levels searched = 5 num possible moves = 3
+time allotted = 6000 time used = 10322
+WHITE's move: (3,3) to (5,3) for WHITE with :|22 chars sux!-1 5
+  in 10710 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 120000
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+B W B _ _ W _ W B W B 
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+
+BLACK exceeded time limit.
+Terminating BLACK player.
+WHITE won.
+Game lasted 0 moves.
+
+------------- New Game -------------
+
+Initializing 11 by 10 board.
+
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W _ _ B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+
+
+Time for each player is 120000 milliseconds.
+Trying to load WHITE player: MalamalamaWikiwiki_43
+WHITE player loaded.
+Trying to load BLACK player: SocaBoys_44
+BLACK player loaded.
+Beginning game.
+
+
+-----------------------------------
+Beginning WHITE's turn. Time left: 120000
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W _ _ B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+W B W B W B W B W B W 
+B W B W B W B W B W B 
+
+WHITE exceeded time limit.
+Terminating WHITE player.
+BLACK won.
+Game lasted 0 moves.
+
+------------- New Game -------------
+
+Initializing 7 by 9 board.
+
+W B W B W B W 
+B W B W B W B 
+W B W B W B W 
+B W B W B W B 
+W B W _ _ B W 
+B W B W B W B 
+W B W B W B W 
+B W B W B W B 
+W B W B W B W 
+
+
+Time for each player is 120000 milliseconds.
+Trying to load WHITE player: SocaBoys_44
+WHITE player loaded.
+Trying to load BLACK player: MalamalamaWikiwiki_43
+BLACK player loaded.
+Beginning game.
+
+
+-----------------------------------
+Beginning WHITE's turn. Time left: 120000
+W B W B W B W 
+B W B W B W B 
+W B W B W B W 
+B W B W B W B 
+W B W _ _ B W 
+B W B W B W B 
+W B W B W B W 
+B W B W B W B 
+W B W B W B W 
+
+levels searched = 5 num possible moves = 3
+time allotted = 7500 time used = 8437
+WHITE's move: (6,4) to (4,4) for WHITE with :|22 chars sux!-2 5
+  in 8536 milliseconds.
+-----------------------------------
+Beginning BLACK's turn. Time left: 120000
+W B W B W B W 
+B W B W B W B 
+W B W B W B W 
+B W B W B W B 
+W B W _ W _ _ 
+B W B W B W B 
+W B W B W B W 
+B W B W B W B 
+W B W B W B W 
+
+BLACK exceeded time limit.
+Terminating BLACK player.
+WHITE won.
+Game lasted 0 moves.
+----------- Head-to-Head Results ------------
+11 x 7 Board. 120000 milliseconds.
+SocaBoys_44 playing WHITE. MalamalamaWikiwiki_43 playing BLACK.
+SocaBoys_44 wins in 0 moves.
+WHITE time left: 109290
+BLACK time left: 120000
+
+11 x 10 Board. 120000 milliseconds.
+MalamalamaWikiwiki_43 playing WHITE. SocaBoys_44 playing BLACK.
+SocaBoys_44 wins in 0 moves.
+WHITE time left: 120000
+BLACK time left: 120000
+
+7 x 9 Board. 120000 milliseconds.
+SocaBoys_44 playing WHITE. MalamalamaWikiwiki_43 playing BLACK.
+SocaBoys_44 wins in 0 moves.
+WHITE time left: 111464
+BLACK time left: 120000
+
+
+------------- New Game -------------
+
+Initializing 7 by 11 board.
+
+W B W B W B W 
+B W B W B W B 
+W B W B W B W 
+B W B W B W B 
+W B W B W B W 
+B W B _ _ W B 
+W B W B W B W 
+B W B W B W B 
+W B W B W B W 
+B W B W B W B 
+W B W B W B W 
+
+
+Time for each player is 120000 milliseconds.
+Trying to load WHITE player: janiss_23
+WHITE player loaded.
+Trying to load BLACK player: otis_16
+BLACK player loaded.
+Beginning game.
+
+
+-----------------------------------
+Beginning WHITE's turn. Time left: 120000
+W B W B W B W 
+B W B W B W B 
+W B W B W B W 
+B W B W B W B 
+W B W B W B W 
+B W B _ _ W B 
+W B W B W B W 
+B W B W B W B 
+W B W B W B W 
+B W B W B W B 
+W B W B W B W 
+
+WHITE exceeded time limit.
+Terminating WHITE player.
+BLACK won.
+Game lasted 0 moves.
+
+------------- New Game -------------
+
+Initializing 10 by 8 board.
